@@ -1,0 +1,17 @@
+{
+  "name": "nexb-greenfield",
+  "version": "2.4.0",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "nexB",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "dependencies": {
+    "oauth-libre": "^0.9.17"
+  }
+}
