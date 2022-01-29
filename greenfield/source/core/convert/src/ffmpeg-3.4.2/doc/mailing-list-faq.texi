@@ -186,7 +186,7 @@ Perform a site search using your favorite search engine. Example:
 
 @section Is there an alternative to the mailing list?
 
-You can ask for help in the official @t{#ffmpeg} IRC channel on Freenode.
+You can ask for help in the official @t{#aboutcode} IRC channel on liberachat.
 
 Some users prefer the third-party Nabble interface which presents the
 mailing lists in a typical forum layout.
